@@ -1,0 +1,49 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Clarice Lispector"},
+                  "BookTitle": {"S": "Laços de família"},
+                  "PublishininCompany": {"S": "Rocco"},
+                  "Year": {"S": "1995"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Clarice Lispector"},
+                  "BookTitle": {"S": "Hora da estrela"},
+                  "PublishininCompany": {"S": "Companhia das Letras "},
+                  "Year": {"S": "1993"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Clarice Lispector"},
+                  "BookTitle": {"S": "100 anos de solidão"},
+                  "PublishininCompany": {"S": "Companhia das Letras"},
+                  "Year": {"S": "1992"}
+                }
+            }
+        },
+
+        {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Clarice Lispector"},
+                "BookTitle": {"S": "Paixão segundo GH"},
+                "PublishininCompany": {"S": "Companhia das Letras"},
+                "Year": {"S": "1998"}
+              }
+          }
+      }
+
+
+
+
+      ]
+}
